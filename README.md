@@ -1,20 +1,20 @@
 # Mage Lab
 ----------------
-*user-centric AI interface featuring local reasoning and tool calling*
+*mage lab provides a high fidelity voice enabled AI interface with advanced, customizable tool calling*
 
 | Upstream | AUR | License |
 | -------- | --- | ------- |
-| <https://example.com> | <https://aur.archlinux.org/packages/pkgname> | MIT |
+| <https://magelab.ai> | <https://aur.archlinux.org/packages/magelab> | MIT |
 
 ## Mage Lab
-Short one‑liner: *“CLI tool for **x**, written in Go.”*  
-Link to upstream releases/changelog if useful.
+mage lab is an AI control panel and intelligent interface for your desktop. It brings a powerful out of box experience and limitless configurability. it's a good time.
 
-## build tar from deb
+https://web.crabnebula.cloud/sapient-artifice/mage-lab/releases
+
+## Install from th AUR
+
 ```
-makepkg --printsrcinfo > .SRCINFO      
-makepkg -si  
+yay -S magelab-bin
+# or
+paru -S magelab-bin
 ```
-## Quick install
-```bash
-paru -S pkgname          # or yay / makepkg -si
