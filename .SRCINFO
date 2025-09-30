@@ -7,7 +7,6 @@ pkgbase = magelab-bin
 	license = MIT
 	depends = gtk3
 	depends = webkit2gtk-4.1
-	depends = libayatana-appindicator
 	provides = magelab
 	conflicts = magelab
 	options = !strip
