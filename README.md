@@ -11,7 +11,7 @@ mage lab is an AI control panel and intelligent interface for your desktop. It b
 
 https://web.crabnebula.cloud/sapient-artifice/mage-lab/releases
 
-## Install from th AUR
+## Install from the AUR
 
 ```
 yay -S magelab-bin
